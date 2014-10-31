@@ -2,7 +2,7 @@
 
 This file is part of the CMaNGOS Project. See [AUTHORS](AUTHORS.md) file for Copyright information
 
-## Welcome to C(ontinued)-MaNGOS
+## Welcome to C(ontinued)-MaNGOS.
 
 C(ontinued)-MaNGOS is a free project with the following goal:
 
