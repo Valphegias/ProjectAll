@@ -35,11 +35,19 @@ enum
     SAY_KILL_2                  = -1543007,
     SAY_DIE                     = -1543008,
 
+	//Gargolmar
+	
     SPELL_MORTAL_WOUND          = 30641,
     SPELL_MORTAL_WOUND_H        = 36814,
     SPELL_SURGE                 = 34645,
     SPELL_RETALIATION           = 22857,
     SPELL_OVERPOWER             = 32154,
+	
+	//guetteur
+	
+	SPELL_HEAL                  = 12039,
+	SPELL_DOULEUR               = 14032,
+	SPELL_RENOV                 = 8362,
 };
 
 struct MANGOS_DLL_DECL boss_watchkeeper_gargolmarAI : public ScriptedAI
